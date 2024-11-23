@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 export default function Navbar() {
   return (
-    <div className="bg-neutral shadow-lg">
+    <div className="fixed z-[999] w-full bg-neutral shadow-lg">
       <div className="navbar container mx-auto text-neutral-content">
         <div className="navbar-start">
           <div className="dropdown">

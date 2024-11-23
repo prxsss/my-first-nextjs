@@ -16,7 +16,7 @@ export default function ProductDetails({ product }) {
           background:
             'linear-gradient(90deg, #020024 0%, #090979 35%, #00d4ff 100%)',
         }}
-        className="p-6"
+        className="p-6 pt-[90px]"
       >
         <div>
           <div className="flex justify-start items-center mb-8 px-2 container mx-auto">

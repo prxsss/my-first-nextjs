@@ -18,7 +18,7 @@ export default function Products({ products }) {
           background:
             'linear-gradient(90deg, #020024 0%, #090979 35%, #00d4ff 100%)',
         }}
-        className="min-h-screen p-5"
+        className="min-h-screen p-5 pt-[90px]"
       >
         <p className="text-center text-4xl p-4 font-bold text-base-100 mb-8">
           Products
