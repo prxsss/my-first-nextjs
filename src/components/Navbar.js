@@ -41,7 +41,7 @@ export default function Navbar() {
         </div>
         <div className="navbar-center">
           <Link href="/" className="btn btn-ghost text-xl">
-            psosss&apos;s shop
+            prosss&apos;s shop
           </Link>
         </div>
         <div className="navbar-end">
