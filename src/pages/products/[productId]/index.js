@@ -61,7 +61,7 @@ export default function ProductDetails({ product }) {
                 <div className="text-sm">{product.rating.count} reviews</div>
               </div>
               <div className="font-bold text-3xl t p-2 mb-4">
-                &#3647;{product.price}
+                &#36;{product.price}
               </div>
               <div>{product.description}</div>
             </div>

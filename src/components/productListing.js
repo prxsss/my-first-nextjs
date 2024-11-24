@@ -22,7 +22,7 @@ export default function ProductListing({ product }) {
         <h2 className="card-title">{product.title.substring(0, 40) + '...'}</h2>
         <p>{product.description.substring(0, 80) + '...'}</p>
         <div className="card-actions justify-end">
-          <div className="badge badge-outline">&#3647;{product.price}</div>
+          <div className="badge badge-outline">&#36;{product.price}</div>
         </div>
       </div>
     </Link>
